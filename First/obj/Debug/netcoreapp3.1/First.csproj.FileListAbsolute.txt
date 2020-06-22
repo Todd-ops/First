@@ -1,0 +1,13 @@
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.exe
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.deps.json
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.json
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.dev.json
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.dll
+C:\Users\toddp\repos\First\First\bin\Debug\netcoreapp3.1\First.pdb
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.csprojAssemblyReference.cache
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.AssemblyInfoInputs.cache
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.AssemblyInfo.cs
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.csproj.CoreCompileInputs.cache
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.dll
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.pdb
+C:\Users\toddp\repos\First\First\obj\Debug\netcoreapp3.1\First.genruntimeconfig.cache
